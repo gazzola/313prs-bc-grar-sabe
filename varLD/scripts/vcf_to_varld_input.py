@@ -53,4 +53,4 @@ def convert_genotype(genotype_string):
 
     return str(ld_genotype)
 
-main()
+main() # pylint: disable=no-value-for-parameter
